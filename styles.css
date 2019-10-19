@@ -15,4 +15,26 @@ textarea {
     max-width: 500px;
     height: 100px;
 }
+.footer {
+    text-align: center;
+}
 
+.footer a:link {
+    text-decoration: none;
+    color: black;
+}
+
+.footer a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.footer a:active {
+    text-decoration: none;
+    color: black;
+}
+
+.footer a:visited {
+    text-decoration: none;
+    color: black;
+}
